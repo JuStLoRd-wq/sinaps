@@ -1,2 +1,0 @@
-# sinaps
-forum web site
