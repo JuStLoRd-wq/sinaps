@@ -1,0 +1,10 @@
+@mixin font($ff: Poppins, $style:normal,  $fs: 16px, $fw: normal, $lh: 24px, $color: #000, $ls: 0.01rem) {
+  font-family: $ff;
+  font-style: $style;
+  font-weight: $fw;
+  font-size: $fs;
+  line-height: $lh;
+  color: $color;
+  letter-spacing: $ls;
+  @content;
+}

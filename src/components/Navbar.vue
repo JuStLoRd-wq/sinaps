@@ -1,5 +1,5 @@
 <template>
-  <nav class="px-12">
+  <nav class="bg-white">
     <main class="nav__main-class">
       <div class="">
         <img alt="" src="@/assets/icons/sinaps-logo.svg">

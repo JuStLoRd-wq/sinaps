@@ -5,14 +5,16 @@ import Footer from '@/components/Footer.vue';
 </script>
 
 <template>
-  <section class="min-h-screen flex flex-col">
-    <Navbar />
-    <main class="flex-grow p-6" style="background: #FBFBFB;">
-      <section class="px-12">
-        <RouterView />
-      </section>
-    </main>
-    <Footer />
+  <section  >
+   <div style="background: #FBFBFB;" class="container mx-auto min-h-screen flex flex-col">
+     <Navbar class="px-12"/>
+     <main class="flex-grow px-12">
+       <section class="">
+         <RouterView />
+       </section>
+     </main>
+     <Footer />
+   </div>
   </section>
 </template>
 

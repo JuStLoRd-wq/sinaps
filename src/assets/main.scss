@@ -1,0 +1,17 @@
+@forward "variables";
+@forward "font";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+$mobile: 575px;
+$tablet: 768px;
+$tablet-xl: 991px;
+$notebook: 1366px;
+
+
+
+
+

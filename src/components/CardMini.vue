@@ -1,8 +1,9 @@
 <template>
   <div
-    class="group relative w-full cursor-pointer  rounded-2xl overflow-hidden shadow-lg bg-cover bg-center transition-transform duration-300"
+    class="group cursor-pointer relative h-56 w-full rounded-2xl overflow-hidden shadow-lg bg-cover bg-center transition-transform duration-300"
     :style="`background-image: url(${backgroundUrl});`"
     style="height: 235px"
+
   >
     <!-- Hover gradient -->
     <div

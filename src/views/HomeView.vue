@@ -1,26 +1,47 @@
 <template>
   <main>
-    <h1>hello world</h1>
-    <div class="row">
-      <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-5 justify-content-xl-start"
-           v-for="card in cardData.slice(0, 1)">
-        <!--        <router-link :to="{name:'article', params:{id: card.id}}" class="text-decoration-none">-->
-        <Card :card="card" :key="card.id" class="card card-main background-image border-0 w-100" />
-        <!--          <CardMobile :card="card" v-else />-->
-        <!--        </router-link>-->
+    <div class="main-home h-auto">
+      <div class="flex gap-7" style="height:500px">
+        <!-- Left big card -->
+        <div
+          class="w-full lg:w-2/5 rounded-xl text-white flex items-center justify-center">
+          <Card />
+        </div>
+
+        <!-- Right side 4 cards -->
+        <div class="w-full gap-7 lg:w-3/5 flex flex-col">
+          <!-- Row 1 -->
+            <div class="flex gap-7 items-start">
+            <div
+              class="w-2/3 rounded-lg text-white flex items-center justify-center">
+              <CardMini />
+            </div>
+            <div
+              class="w-1/3 bg-blue-400 rounded-lg text-white flex items-center justify-center">
+              <ExtraMiniCard />
+
+            </div>
+          </div>
+
+          <!-- Row 2 -->
+          <div class="flex gap-7">
+            <div
+              class="w-1/3 rounded-lg text-white flex items-center justify-center">
+              <ExtraMiniCard />
+
+            </div>
+            <div
+              class="w-2/3 rounded-lg text-white flex items-center justify-center">
+              <CardMini />
+            </div>
+          </div>
+        </div>
       </div>
-      <div
-        class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-7 d-flex align-content-xxl-between flex-wrap justify-content-start justify-content-xxl-end">
-        <!--        <CardMini :card="card"-->
-        <!--                  :class="[card.id === 2 || card.id === 5? 'cardMiniWidth':'cardMiniWidthSecond']"-->
-        <!--                  :style="(card.id === 2) &&{marginRight:'24px', width:'397px', height:'235px'}||(card.id === 3) &&{width:'292px', height:'235px'}||(card.id === 4) && {marginRight:'24px', width:'292px', height:'235px'} || (card.id === 5) &&{width:'397px', height:'235px'}"-->
-        <!--                  class="card card-main background-image border-0 "-->
-        <!--                  v-for="card in cardData.slice(1, 5)"-->
-        <!--                  v-if="windowWidth > 986"-->
-        <!--        />-->
-        <!--        <CardMobile :card="card" v-else v-for="card in cardData.slice(1, 5)" />-->
-      </div>
+
+
+
     </div>
+
 
   </main>
 </template>
@@ -28,9 +49,11 @@
 <script setup>
 import { ref } from 'vue';
 import Card from '@/components/Card.vue';
+import ExtraMiniCard from '@/components/ExtraMiniCard.vue';
+import CardMini from '@/components/CardMini.vue';
+import BaseIcon from '@/components/BaseIcon.vue'
 
 const cardData = ref([
-
   {
     id: 1,
     title: 'Arktika baliqlarining inson oziqlanishidagi',
@@ -65,6 +88,42 @@ const cardData = ref([
     img: '/src/assets/images/arctica.jpg',
     text: 'TED 2009ʼda ochiq bayon etilgan nutqida Koleman oʻzining Amerika liberal sanʼati kelajagi bilan bogʻliq umidlari va tashvishlari bilan oʻrtoqlashdi. Shundan soʻng, u Bennington kolleji prezidenti sifatida oliy taʼlimning jamiyatdagi oʻrnini tanqid qildi...',
 
-  }]);
+  },
+]);
 
 </script>
+
+
+<style lang="scss">
+@forward "@/assets/_variables.scss";
+@forward "@/assets/_font.scss";
+
+
+div {
+  margin: 0;
+  padding: 0;
+}
+
+.main-home {
+  margin-top: 4rem;
+  @media (max-width: $tablet) {
+    margin-top: 0.5rem;
+
+  }
+}
+
+.main-font {
+  @include font("Poppins", normal, 36px, 600, 150%, #121212, 0.04em);
+  //width: 70% !important;
+}
+
+.main-font__info {
+  @include font("Poppins", italic, 18px, 500, 150%, #B6B6B6, 0.04em);
+  width: 548px;
+  @media (max-width: 986px) {
+    width: 320px;
+  }
+
+}
+</style>
+
