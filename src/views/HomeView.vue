@@ -39,6 +39,9 @@
       </div>
 
     </div>
+    <section>
+      <div style="color: #FFB23F;">Bu qiziq</div>
+    </section>
   </main>
 </template>
 
