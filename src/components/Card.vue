@@ -6,7 +6,10 @@
     <!-- Hover gradient -->
     <div
       class="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-0 group-hover:opacity-80 transition-opacity duration-300"
-    ></div>
+    >
+  dsdfsdf</div>
+
+
 
     <!-- Text content -->
     <div class="relative z-10 p-6 text-white flex flex-col justify-end h-full">

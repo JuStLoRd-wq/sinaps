@@ -11,6 +11,7 @@ import Footer from '@/components/Footer.vue';
      <main class="flex-grow px-12">
        <section class="">
          <RouterView />
+         
        </section>
      </main>
      <Footer />
