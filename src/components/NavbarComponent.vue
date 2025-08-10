@@ -7,7 +7,7 @@
         </router-link>
       </div>
 
-      <div class="flex justify-center items-center">
+      <div class="flex justify-center items-center gap-12">
         <span class="text-sm font-medium">Loyiha haqida</span>
 
         <div ref="dropdown" class="relative inline-block text-left z-50">
