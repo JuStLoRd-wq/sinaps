@@ -3,13 +3,10 @@
     class="group relative w-full h-full cursor-pointer rounded-2xl overflow-hidden shadow-lg bg-cover bg-center transition-transform duration-300"
     :style="`background-image: url(${backgroundUrl});`"
   >
-    <!-- Hover gradient -->
+    <!-- Hover gradient -->asdsa
     <div
       class="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-0 group-hover:opacity-80 transition-opacity duration-300"
-    >
-  dsdfsdf</div>
-
-
+    ></div>
 
     <!-- Text content -->
     <div class="relative z-10 p-6 text-white flex flex-col justify-end h-full">
@@ -26,7 +23,7 @@ import { computed } from 'vue'
 
 // import backgroundImg from '@/assets/img/main-fish.jpg'
 
-import backgroundImage from '@/assets/img/main-fish.jpg'// Replace with your local image
+import backgroundImage from '@/assets/img/main-fish.jpg' // Replace with your local image
 
 const backgroundUrl = backgroundImage
 // Example background URL
@@ -40,13 +37,11 @@ const backgroundUrl = backgroundImage
 
 const props = defineProps(['card'])
 // console.log(props.card.img)
-
 </script>
 
 <style scoped lang="scss">
-@forward "@/assets/_variables.scss";
-@forward "@/assets/_font.scss";
-
+@forward '@/assets/_variables.scss';
+@forward '@/assets/_font.scss';
 
 .card-main {
   border-radius: 10px !important;
@@ -57,7 +52,6 @@ const props = defineProps(['card'])
     border-radius: 0 0 10px 10px;
     height: 190px;
     padding: 0 18px 18px 24px !important;
-
   }
 
   //.background-box {
@@ -75,23 +69,21 @@ const props = defineProps(['card'])
 
   .card-footer {
     &__title {
-      color: #FFFFFF;
-      @include font("Poppins", normal, 36px, 600, 54px, #FFFFFF, 0.04em);
-
+      color: #ffffff;
+      @include font('Poppins', normal, 36px, 600, 54px, #ffffff, 0.04em);
     }
 
     &__text {
       display: flex;
       justify-content: start;
-      @include font("Poppins", italic, 16px, 400, 150%, #FFFFFF, 0.04em);
+      @include font('Poppins', italic, 16px, 400, 150%, #ffffff, 0.04em);
     }
 
     &__note {
       margin-top: auto;
-      @include font("Poppins", italic, 16px, 400, 150%, #FFFFFF, 0.04em);
+      @include font('Poppins', italic, 16px, 400, 150%, #ffffff, 0.04em);
     }
   }
-
 }
 
 .background-image {
@@ -100,14 +92,15 @@ const props = defineProps(['card'])
   background-position: center;
 }
 
-
 .card-main__img {
   width: 400px;
 }
 
 .smth {
-  background: linear-gradient(180.36deg, rgba(32, 32, 32, 0.05) -17.78%, rgba(0, 0, 0, 0.9) 72.89%) !important;
+  background: linear-gradient(
+    180.36deg,
+    rgba(32, 32, 32, 0.05) -17.78%,
+    rgba(0, 0, 0, 0.9) 72.89%
+  ) !important;
 }
-
-
 </style>

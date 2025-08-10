@@ -1,0 +1,438 @@
+{
+  "categories": [
+    {
+      "category": "San'at",
+      "id": 1,
+      "items": [
+        {
+          "title": "San'at sohasiga umrini tikganlar",
+          "id": 1,
+          "description": "Sanʼat – ijtimoiy ong va inson faoliyatining oʻziga xos shakli. Sanʼat qadimiy tarixga ega boʻlib, u jamiyat taraqqiyotining ilk bosqichlarida mehnat jarayoni bilan, kishilar ijtimoiy faoliyatining rivojlanishi bilan bogʻliq holda vujudga kela boshlagan. Ibtidoiy sanʼatning dastlabki izlari soʻnggi paleolit davriga, taxminan mil. av. 40—20-ming yillikka borib taqaladi. U davrda hali sanʼat inson faoliyatining mustaqil shakli sifatida ajralib chiqmagan edi. Chunki maʼnaviyat moddiyat bilan qorishiq holatda edi. Keyinchalik madaniyatning oʻsishi natijasida sanʼat alohida soha sifatida asta-sekin ajrala bordi.",
+          "img": "https://picsum.photos/id/237/400/200"
+        },
+        {
+          "title": "San'at sohasiga umrini tikkanlar",
+          "id": 2,
+          "img": "https://picsum.photos/id/238/400/200",
+          "description": "Sanʼat – ijtimoiy ong va inson faoliyatining oʻziga xos shakli. Sanʼat qadimiy tarixga ega boʻlib, u jamiyat taraqqiyotining ilk bosqichlarida mehnat jarayoni bilan, kishilar ijtimoiy faoliyatining rivojlanishi bilan bogʻliq holda vujudga kela boshlagan. Ibtidoiy sanʼatning dastlabki izlari soʻnggi paleolit davriga, taxminan mil. av. 40—20-ming yillikka borib taqaladi. U davrda hali sanʼat inson faoliyatining mustaqil shakli sifatida ajralib chiqmagan edi. Chunki maʼnaviyat moddiyat bilan qorishiq holatda edi. Keyinchalik madaniyatning oʻsishi natijasida sanʼat alohida soha sifatida asta-sekin ajrala bordi."
+        },
+        {
+          "title": "San'at sohasiga umrini tikkanlar",
+          "id": 3,
+          "img": "https://picsum.photos/id/239/400/200",
+          "description": "Sanʼat – ijtimoiy ong va inson faoliyatining oʻziga xos shakli. Sanʼat qadimiy tarixga ega boʻlib, u jamiyat taraqqiyotining ilk bosqichlarida mehnat jarayoni bilan, kishilar ijtimoiy faoliyatining rivojlanishi bilan bogʻliq holda vujudga kela boshlagan. Ibtidoiy sanʼatning dastlabki izlari soʻnggi paleolit davriga, taxminan mil. av. 40—20-ming yillikka borib taqaladi. U davrda hali sanʼat inson faoliyatining mustaqil shakli sifatida ajralib chiqmagan edi. Chunki maʼnaviyat moddiyat bilan qorishiq holatda edi. Keyinchalik madaniyatning oʻsishi natijasida sanʼat alohida soha sifatida asta-sekin ajrala bordi."
+        },
+        {
+          "title": "San'at sohasiga umrini tikkanlar",
+          "id": 4,
+          "img": "https://picsum.photos/id/240/400/200",
+          "description": "Sanʼat – ijtimoiy ong va inson faoliyatining oʻziga xos shakli. Sanʼat qadimiy tarixga ega boʻlib, u jamiyat taraqqiyotining ilk bosqichlarida mehnat jarayoni bilan, kishilar ijtimoiy faoliyatining rivojlanishi bilan bogʻliq holda vujudga kela boshlagan. Ibtidoiy sanʼatning dastlabki izlari soʻnggi paleolit davriga, taxminan mil. av. 40—20-ming yillikka borib taqaladi. U davrda hali sanʼat inson faoliyatining mustaqil shakli sifatida ajralib chiqmagan edi. Chunki maʼnaviyat moddiyat bilan qorishiq holatda edi. Keyinchalik madaniyatning oʻsishi natijasida sanʼat alohida soha sifatida asta-sekin ajrala bordi."
+        },
+        {
+          "title": "San'at sohasiga umrini tikkanlar",
+          "id": 5,
+          "img": "https://picsum.photos/id/241/400/200",
+          "description": "Sanʼat – ijtimoiy ong va inson faoliyatining oʻziga xos shakli. Sanʼat qadimiy tarixga ega boʻlib, u jamiyat taraqqiyotining ilk bosqichlarida mehnat jarayoni bilan, kishilar ijtimoiy faoliyatining rivojlanishi bilan bogʻliq holda vujudga kela boshlagan. Ibtidoiy sanʼatning dastlabki izlari soʻnggi paleolit davriga, taxminan mil. av. 40—20-ming yillikka borib taqaladi. U davrda hali sanʼat inson faoliyatining mustaqil shakli sifatida ajralib chiqmagan edi. Chunki maʼnaviyat moddiyat bilan qorishiq holatda edi. Keyinchalik madaniyatning oʻsishi natijasida sanʼat alohida soha sifatida asta-sekin ajrala bordi."
+        },
+        {
+          "title": "San'at sohasiga umrini tikkanlar",
+          "id": 6,
+          "img": "https://picsum.photos/id/242/400/200",
+          "description": "Sanʼat – ijtimoiy ong va inson faoliyatining oʻziga xos shakli. Sanʼat qadimiy tarixga ega boʻlib, u jamiyat taraqqiyotining ilk bosqichlarida mehnat jarayoni bilan, kishilar ijtimoiy faoliyatining rivojlanishi bilan bogʻliq holda vujudga kela boshlagan. Ibtidoiy sanʼatning dastlabki izlari soʻnggi paleolit davriga, taxminan mil. av. 40—20-ming yillikka borib taqaladi. U davrda hali sanʼat inson faoliyatining mustaqil shakli sifatida ajralib chiqmagan edi. Chunki maʼnaviyat moddiyat bilan qorishiq holatda edi. Keyinchalik madaniyatning oʻsishi natijasida sanʼat alohida soha sifatida asta-sekin ajrala bordi."
+        },
+        {
+          "title": "San'at sohasiga umrini tikkanlar",
+          "id": 7,
+          "img": "https://picsum.photos/id/243/400/200",
+          "description": "Sanʼat – ijtimoiy ong va inson faoliyatining oʻziga xos shakli. Sanʼat qadimiy tarixga ega boʻlib, u jamiyat taraqqiyotining ilk bosqichlarida mehnat jarayoni bilan, kishilar ijtimoiy faoliyatining rivojlanishi bilan bogʻliq holda vujudga kela boshlagan. Ibtidoiy sanʼatning dastlabki izlari soʻnggi paleolit davriga, taxminan mil. av. 40—20-ming yillikka borib taqaladi. U davrda hali sanʼat inson faoliyatining mustaqil shakli sifatida ajralib chiqmagan edi. Chunki maʼnaviyat moddiyat bilan qorishiq holatda edi. Keyinchalik madaniyatning oʻsishi natijasida sanʼat alohida soha sifatida asta-sekin ajrala bordi."
+        },
+        {
+          "title": "San'at sohasiga umrini tikkanlar",
+          "id": 8,
+          "img": "https://picsum.photos/id/244/400/200",
+          "description": "Sanʼat – ijtimoiy ong va inson faoliyatining oʻziga xos shakli. Sanʼat qadimiy tarixga ega boʻlib, u jamiyat taraqqiyotining ilk bosqichlarida mehnat jarayoni bilan, kishilar ijtimoiy faoliyatining rivojlanishi bilan bogʻliq holda vujudga kela boshlagan. Ibtidoiy sanʼatning dastlabki izlari soʻnggi paleolit davriga, taxminan mil. av. 40—20-ming yillikka borib taqaladi. U davrda hali sanʼat inson faoliyatining mustaqil shakli sifatida ajralib chiqmagan edi. Chunki maʼnaviyat moddiyat bilan qorishiq holatda edi. Keyinchalik madaniyatning oʻsishi natijasida sanʼat alohida soha sifatida asta-sekin ajrala bordi."
+        },
+        {
+          "title": "San'at sohasiga umrini tikkanlar",
+          "id": 9,
+          "img": "https://picsum.photos/id/236/400/200",
+          "description": "Sanʼat – ijtimoiy ong va inson faoliyatining oʻziga xos shakli. Sanʼat qadimiy tarixga ega boʻlib, u jamiyat taraqqiyotining ilk bosqichlarida mehnat jarayoni bilan, kishilar ijtimoiy faoliyatining rivojlanishi bilan bogʻliq holda vujudga kela boshlagan. Ibtidoiy sanʼatning dastlabki izlari soʻnggi paleolit davriga, taxminan mil. av. 40—20-ming yillikka borib taqaladi. U davrda hali sanʼat inson faoliyatining mustaqil shakli sifatida ajralib chiqmagan edi. Chunki maʼnaviyat moddiyat bilan qorishiq holatda edi. Keyinchalik madaniyatning oʻsishi natijasida sanʼat alohida soha sifatida asta-sekin ajrala bordi."
+        }
+      ]
+    },
+    {
+      "category": "Kimyo",
+      "id": 2,
+      "items": [
+        {
+          "title": "Kimyo ozi nima uchun kerak",
+          "id": 1,
+          "img":"https://picsum.photos/seed/237/400/200",
+          "description": "Kimyo, ximiya — moddalarning tuzilishi va oʻzgarishini oʻrganadigan fan. Kimyo boshqa fanlar qatori inson faoliyatining mahsuli sifatida vujudga kelib, tabiiy ehtiyojlarni qondirish, zaruriy mahsulotlar ishlab chiqarish, biridan ikkinchisini xrsil qilish va, nihoyat, turli hodisalar sirlarini bilish maqsadida roʻyobga chiqdi."
+        },
+        {
+          "title": "Kimyo ozi nima uchun kerak",
+          "id": 2,
+          "img":"https://picsum.photos/seed/238/400/200",
+          "description": "Kimyo, ximiya — moddalarning tuzilishi va oʻzgarishini oʻrganadigan fan. Kimyo boshqa fanlar qatori inson faoliyatining mahsuli sifatida vujudga kelib, tabiiy ehtiyojlarni qondirish, zaruriy mahsulotlar ishlab chiqarish, biridan ikkinchisini xrsil qilish va, nihoyat, turli hodisalar sirlarini bilish maqsadida roʻyobga chiqdi."
+        },
+        {
+          "title": "Kimyo ozi nima uchun kerak",
+          "id": 3,
+          "img":"https://picsum.photos/seed/239/400/200",
+          "description": "Kimyo, ximiya — moddalarning tuzilishi va oʻzgarishini oʻrganadigan fan. Kimyo boshqa fanlar qatori inson faoliyatining mahsuli sifatida vujudga kelib, tabiiy ehtiyojlarni qondirish, zaruriy mahsulotlar ishlab chiqarish, biridan ikkinchisini xrsil qilish va, nihoyat, turli hodisalar sirlarini bilish maqsadida roʻyobga chiqdi."
+        },
+        {
+          "title": "Kimyo ozi nima uchun kerak",
+          "id": 4,
+          "img":"https://picsum.photos/seed/240/400/200",
+          "description": "Kimyo, ximiya — moddalarning tuzilishi va oʻzgarishini oʻrganadigan fan. Kimyo boshqa fanlar qatori inson faoliyatining mahsuli sifatida vujudga kelib, tabiiy ehtiyojlarni qondirish, zaruriy mahsulotlar ishlab chiqarish, biridan ikkinchisini xrsil qilish va, nihoyat, turli hodisalar sirlarini bilish maqsadida roʻyobga chiqdi."
+        },
+        {
+          "title": "Kimyo ozi nima uchun kerak",
+          "id": 5,
+          "img":"https://picsum.photos/seed/241/400/200",
+          "description": "Kimyo, ximiya — moddalarning tuzilishi va oʻzgarishini oʻrganadigan fan. Kimyo boshqa fanlar qatori inson faoliyatining mahsuli sifatida vujudga kelib, tabiiy ehtiyojlarni qondirish, zaruriy mahsulotlar ishlab chiqarish, biridan ikkinchisini xrsil qilish va, nihoyat, turli hodisalar sirlarini bilish maqsadida roʻyobga chiqdi."
+        },
+        {
+          "title": "Kimyo ozi nima uchun kerak",
+          "id": 6,
+          "img":"https://picsum.photos/seed/242/400/200",
+          "description": "Kimyo, ximiya — moddalarning tuzilishi va oʻzgarishini oʻrganadigan fan. Kimyo boshqa fanlar qatori inson faoliyatining mahsuli sifatida vujudga kelib, tabiiy ehtiyojlarni qondirish, zaruriy mahsulotlar ishlab chiqarish, biridan ikkinchisini xrsil qilish va, nihoyat, turli hodisalar sirlarini bilish maqsadida roʻyobga chiqdi."
+        }
+      ]
+    },
+    {
+      "category": "Tarix",
+      "id": 3,
+      "items": [
+        {
+          "title": "tarix fanining boshlanishi",
+          "id": 1,
+          "img":"https://picsum.photos/seed/255/400/200",
+          "description": "Tarix - o'tmishdagi voqea-hodisalar, jamiyatning taraqqiyoti, o'zgarishlari va rivojlanishini o'rganuvchi fan. U insoniyatning o'tmishdagi hayoti, siyosiy, iqtisodiy, ijtimoiy va madaniy jarayonlarini o'rganishga qaratilgan. Tarix fani o'tmishdagi voqealarni tahlil qilib, ularning sabab-oqibatlarini aniqlashga harakat qiladi. "
+        },
+        {
+          "title": "tarix fanining boshlanishi",
+          "id": 2,
+          "img":"https://picsum.photos/seed/256/400/200",
+          "description": "Tarix - o'tmishdagi voqea-hodisalar, jamiyatning taraqqiyoti, o'zgarishlari va rivojlanishini o'rganuvchi fan. U insoniyatning o'tmishdagi hayoti, siyosiy, iqtisodiy, ijtimoiy va madaniy jarayonlarini o'rganishga qaratilgan. Tarix fani o'tmishdagi voqealarni tahlil qilib, ularning sabab-oqibatlarini aniqlashga harakat qiladi. "
+        },
+        {
+          "title": "tarix fanining boshlanishi",
+          "id": 3,
+          "img":"https://picsum.photos/seed/257/400/200",
+          "description": "Tarix - o'tmishdagi voqea-hodisalar, jamiyatning taraqqiyoti, o'zgarishlari va rivojlanishini o'rganuvchi fan. U insoniyatning o'tmishdagi hayoti, siyosiy, iqtisodiy, ijtimoiy va madaniy jarayonlarini o'rganishga qaratilgan. Tarix fani o'tmishdagi voqealarni tahlil qilib, ularning sabab-oqibatlarini aniqlashga harakat qiladi. "
+        },
+        {
+          "title": "tarix fanining boshlanishi",
+          "id": 4,
+          "img":"https://picsum.photos/seed/258/400/200",
+          "description": "Tarix - o'tmishdagi voqea-hodisalar, jamiyatning taraqqiyoti, o'zgarishlari va rivojlanishini o'rganuvchi fan. U insoniyatning o'tmishdagi hayoti, siyosiy, iqtisodiy, ijtimoiy va madaniy jarayonlarini o'rganishga qaratilgan. Tarix fani o'tmishdagi voqealarni tahlil qilib, ularning sabab-oqibatlarini aniqlashga harakat qiladi. "
+        },
+        {
+          "title": "tarix fanining boshlanishi",
+          "id": 5,
+          "img":"https://picsum.photos/seed/259/400/200",
+          "description": "Tarix - o'tmishdagi voqea-hodisalar, jamiyatning taraqqiyoti, o'zgarishlari va rivojlanishini o'rganuvchi fan. U insoniyatning o'tmishdagi hayoti, siyosiy, iqtisodiy, ijtimoiy va madaniy jarayonlarini o'rganishga qaratilgan. Tarix fani o'tmishdagi voqealarni tahlil qilib, ularning sabab-oqibatlarini aniqlashga harakat qiladi. "
+        }
+      ]
+    },
+    {
+      "category": "Ta'lim",
+      "id": 4,
+      "items": [
+        {
+          "title": "Talim xaqida",
+          "id": 1,
+          "img":"https://picsum.photos/seed/260/400/200",
+          "description": "Ingliz tili orqali qanday qilib yaxshi ish topish, sayohat qilish va yangi do‘stlar orttirish mumkinligi haqida."
+        },
+        {
+          "title": "Talim xaqida",
+          "id": 2,
+          "img":"https://picsum.photos/seed/261/400/200",
+          "description": "Mashhur iboralar (masalan: \"Break the ice\", \"Hit the books\") izohlanadi."
+        },
+        {
+          "title": "Talim xaqida",
+          "id": 3,
+          "img":"https://picsum.photos/seed/262/400/200",
+          "description": "Amaliy maslahatlar, talaffuz mashqlari, va qanday qilib xatoliklardan o‘rganish mumkinligi tushuntiriladi."
+        },
+        {
+          "title": "Talim xaqida",
+          "id": 4,
+          "img":"https://picsum.photos/seed/263/400/200",
+          "description": "Eski ingliz tilidan zamonaviy ingliz tiligacha bo‘lgan rivojlanish tarixini o‘rganish."
+        },
+        {
+          "title": "Talim xaqida",
+          "id": 5,
+          "img":"https://picsum.photos/seed/264/400/200",
+          "description": "Siz ingliz tilini organishingizdan maqsad nima ?"
+        },
+        {
+          "title": "Talim xaqida",
+          "id": 6,
+          "img":"https://picsum.photos/seed/265/400/200",
+          "description": "Ingliz tilida qanday yangiliklar bor!"
+        }
+      ]
+    },
+
+    {
+      "category": "Qonun",
+      "id": 5,
+      "items": [
+        {
+          "title": "Barcha davlatlarga qonun nima uchun kerak",
+          "id": 1,
+          "img": "https://picsum.photos/seed/266/400/200",
+          "description": "Qonun huquqda – inson, jamiyat va davlat manfaatlari nuqtai nazaridan eng muhim hisoblanadigan ijtimoiy munosabatlarni mustahkamlash, rivojlantirish va tartibga solish vositasi. Qonun davlat oliy vakillik organlarining eng yuqori kuchga ega boʻlgan hujjatidir."
+        },
+        {
+          "title": "Barcha davlatlarga qonun nima uchun kerak",
+          "id": 2,
+          "img": "https://picsum.photos/seed/267/400/200",
+          "description": "Qonun huquqda – inson, jamiyat va davlat manfaatlari nuqtai nazaridan eng muhim hisoblanadigan ijtimoiy munosabatlarni mustahkamlash, rivojlantirish va tartibga solish vositasi. Qonun davlat oliy vakillik organlarining eng yuqori kuchga ega boʻlgan hujjatidir."
+        },
+        {
+          "title": "Barcha davlatlarga qonun nima uchun kerak",
+          "id": 3,
+          "img": "https://picsum.photos/seed/268/400/200",
+          "description": "Qonun huquqda – inson, jamiyat va davlat manfaatlari nuqtai nazaridan eng muhim hisoblanadigan ijtimoiy munosabatlarni mustahkamlash, rivojlantirish va tartibga solish vositasi. Qonun davlat oliy vakillik organlarining eng yuqori kuchga ega boʻlgan hujjatidir."
+        },
+        {
+          "title": "Barcha davlatlarga qonun nima uchun kerak",
+          "id": 4,
+          "img": "https://picsum.photos/seed/269/400/200",
+          "description": "Qonun huquqda – inson, jamiyat va davlat manfaatlari nuqtai nazaridan eng muhim hisoblanadigan ijtimoiy munosabatlarni mustahkamlash, rivojlantirish va tartibga solish vositasi. Qonun davlat oliy vakillik organlarining eng yuqori kuchga ega boʻlgan hujjatidir."
+        },
+        {
+          "title": "Barcha davlatlarga qonun nima uchun kerak",
+          "id": 5,
+          "img": "https://picsum.photos/seed/270/400/200",
+          "description": "Qonun huquqda – inson, jamiyat va davlat manfaatlari nuqtai nazaridan eng muhim hisoblanadigan ijtimoiy munosabatlarni mustahkamlash, rivojlantirish va tartibga solish vositasi. Qonun davlat oliy vakillik organlarining eng yuqori kuchga ega boʻlgan hujjatidir."
+        }
+      ]
+    },
+    {
+      "category": "Tilshunoslik",
+      "id": 6,
+      "items": [
+        {
+          "title": "Tilshunoslik nima?",
+          "id": 1,
+          "img": "https://picsum.photos/seed/271/400/200",
+          "description": "Tilshunoslik yoki Lingvistika tillarni oʻrganuvchi fandir. Tilshunoslikning amaliy va nazariy turlari mavjud boʻlib, nazariy tilshunoslik tilning strukturasi (grammatikasi) va uning maʼnosi (semantikasini) oʻrganadi. Grammatika — morfologiya (soʻzlarning tuzilishi va oʻzgarishi), sintaksis (soʻzlarning iboralarga va gaplarga biriktrilish qoidalari) va fonologiya (tilni abstrakt tovushlar yordamida oʻrganish) fanlarini qamrab oladi. Amaliy tilshunoslik, asosan, tilshunoslikda oʻrganilgan nazariy bilimlarni amaliyotda qoʻllash bilan shugʻullanadi. Amaliy tilshunoslik tarkibiga xorijiy tillarni oʻrganish va oʻrgatish kiradi."
+        },
+        {
+          "title": "Tilshunoslik nima?",
+          "id": 2,
+          "img": "https://picsum.photos/seed/272/400/200",
+          "description": "Tilshunoslik yoki Lingvistika tillarni oʻrganuvchi fandir. Tilshunoslikning amaliy va nazariy turlari mavjud boʻlib, nazariy tilshunoslik tilning strukturasi (grammatikasi) va uning maʼnosi (semantikasini) oʻrganadi. Grammatika — morfologiya (soʻzlarning tuzilishi va oʻzgarishi), sintaksis (soʻzlarning iboralarga va gaplarga biriktrilish qoidalari) va fonologiya (tilni abstrakt tovushlar yordamida oʻrganish) fanlarini qamrab oladi. Amaliy tilshunoslik, asosan, tilshunoslikda oʻrganilgan nazariy bilimlarni amaliyotda qoʻllash bilan shugʻullanadi. Amaliy tilshunoslik tarkibiga xorijiy tillarni oʻrganish va oʻrgatish kiradi."
+        },
+        {
+          "title": "Tilshunoslik nima?",
+          "id": 3,
+          "img": "https://picsum.photos/seed/273/400/200",
+          "description": "Tilshunoslik yoki Lingvistika tillarni oʻrganuvchi fandir. Tilshunoslikning amaliy va nazariy turlari mavjud boʻlib, nazariy tilshunoslik tilning strukturasi (grammatikasi) va uning maʼnosi (semantikasini) oʻrganadi. Grammatika — morfologiya (soʻzlarning tuzilishi va oʻzgarishi), sintaksis (soʻzlarning iboralarga va gaplarga biriktrilish qoidalari) va fonologiya (tilni abstrakt tovushlar yordamida oʻrganish) fanlarini qamrab oladi. Amaliy tilshunoslik, asosan, tilshunoslikda oʻrganilgan nazariy bilimlarni amaliyotda qoʻllash bilan shugʻullanadi. Amaliy tilshunoslik tarkibiga xorijiy tillarni oʻrganish va oʻrgatish kiradi."
+        },
+        {
+          "title": "Tilshunoslik nima?",
+          "id": 4,
+          "img": "https://picsum.photos/seed/274/400/200",
+          "description": "Tilshunoslik yoki Lingvistika tillarni oʻrganuvchi fandir. Tilshunoslikning amaliy va nazariy turlari mavjud boʻlib, nazariy tilshunoslik tilning strukturasi (grammatikasi) va uning maʼnosi (semantikasini) oʻrganadi. Grammatika — morfologiya (soʻzlarning tuzilishi va oʻzgarishi), sintaksis (soʻzlarning iboralarga va gaplarga biriktrilish qoidalari) va fonologiya (tilni abstrakt tovushlar yordamida oʻrganish) fanlarini qamrab oladi. Amaliy tilshunoslik, asosan, tilshunoslikda oʻrganilgan nazariy bilimlarni amaliyotda qoʻllash bilan shugʻullanadi. Amaliy tilshunoslik tarkibiga xorijiy tillarni oʻrganish va oʻrgatish kiradi."
+        },
+        {
+          "title": "Tilshunoslik nima?",
+          "id": 5,
+          "img": "https://picsum.photos/seed/275/400/200",
+          "description": "Tilshunoslik yoki Lingvistika tillarni oʻrganuvchi fandir. Tilshunoslikning amaliy va nazariy turlari mavjud boʻlib, nazariy tilshunoslik tilning strukturasi (grammatikasi) va uning maʼnosi (semantikasini) oʻrganadi. Grammatika — morfologiya (soʻzlarning tuzilishi va oʻzgarishi), sintaksis (soʻzlarning iboralarga va gaplarga biriktrilish qoidalari) va fonologiya (tilni abstrakt tovushlar yordamida oʻrganish) fanlarini qamrab oladi. Amaliy tilshunoslik, asosan, tilshunoslikda oʻrganilgan nazariy bilimlarni amaliyotda qoʻllash bilan shugʻullanadi. Amaliy tilshunoslik tarkibiga xorijiy tillarni oʻrganish va oʻrgatish kiradi."
+        }
+      ]
+    },
+    {
+      "category": "Matematika",
+      "id": 7,
+      "items": [
+        {
+          "title": "Matematika nima?",
+          "id": 1,
+          "img": "https://picsum.photos/seed/276/400/200",
+          "description": "Matematika — aniq mantiqiy mushohadalarga asoslangan bilimlar haqidagi fan. Dastlabki obyekti sanoq boʻlgani uchun koʻpincha unga „hisob-kitob haqidagi fan“ deb qaralgan (bugungi matematikada hisoblashlar, hatto formulalar ustidagi amallar juda kichik oʻrin egallaydi). Matematika eng qadimiy fanlardan biri boʻlib, uzoq rivojlanish tarixini bosib oʻtgan va buning barobarida „matematika nima?“ degan savolga javob ham oʻzgarib, chuqurlashib borgan. Yunonistonda matematika deganda geometriya tushunilgan."
+        },
+        {
+          "title": "Matematika nima?",
+          "id": 2,
+          "img": "https://picsum.photos/seed/277/400/200",
+          "description": "Matematika — aniq mantiqiy mushohadalarga asoslangan bilimlar haqidagi fan. Dastlabki obyekti sanoq boʻlgani uchun koʻpincha unga „hisob-kitob haqidagi fan“ deb qaralgan (bugungi matematikada hisoblashlar, hatto formulalar ustidagi amallar juda kichik oʻrin egallaydi). Matematika eng qadimiy fanlardan biri boʻlib, uzoq rivojlanish tarixini bosib oʻtgan va buning barobarida „matematika nima?“ degan savolga javob ham oʻzgarib, chuqurlashib borgan. Yunonistonda matematika deganda geometriya tushunilgan."
+        },
+        {
+          "title": "Matematika nima?",
+          "id": 3,
+          "img": "https://picsum.photos/seed/278/400/200",
+          "description": "Matematika — aniq mantiqiy mushohadalarga asoslangan bilimlar haqidagi fan. Dastlabki obyekti sanoq boʻlgani uchun koʻpincha unga „hisob-kitob haqidagi fan“ deb qaralgan (bugungi matematikada hisoblashlar, hatto formulalar ustidagi amallar juda kichik oʻrin egallaydi). Matematika eng qadimiy fanlardan biri boʻlib, uzoq rivojlanish tarixini bosib oʻtgan va buning barobarida „matematika nima?“ degan savolga javob ham oʻzgarib, chuqurlashib borgan. Yunonistonda matematika deganda geometriya tushunilgan."
+        },
+        {
+          "title": "Matematika nima?",
+          "id": 4,
+          "img": "https://picsum.photos/seed/279/400/200",
+          "description": "Matematika — aniq mantiqiy mushohadalarga asoslangan bilimlar haqidagi fan. Dastlabki obyekti sanoq boʻlgani uchun koʻpincha unga „hisob-kitob haqidagi fan“ deb qaralgan (bugungi matematikada hisoblashlar, hatto formulalar ustidagi amallar juda kichik oʻrin egallaydi). Matematika eng qadimiy fanlardan biri boʻlib, uzoq rivojlanish tarixini bosib oʻtgan va buning barobarida „matematika nima?“ degan savolga javob ham oʻzgarib, chuqurlashib borgan. Yunonistonda matematika deganda geometriya tushunilgan."
+        },
+        {
+          "title": "Matematika nima?",
+          "id": 5,
+          "img": "https://picsum.photos/seed/280/400/200",
+          "description": "Matematika — aniq mantiqiy mushohadalarga asoslangan bilimlar haqidagi fan. Dastlabki obyekti sanoq boʻlgani uchun koʻpincha unga „hisob-kitob haqidagi fan“ deb qaralgan (bugungi matematikada hisoblashlar, hatto formulalar ustidagi amallar juda kichik oʻrin egallaydi). Matematika eng qadimiy fanlardan biri boʻlib, uzoq rivojlanish tarixini bosib oʻtgan va buning barobarida „matematika nima?“ degan savolga javob ham oʻzgarib, chuqurlashib borgan. Yunonistonda matematika deganda geometriya tushunilgan."
+        }
+      ]
+    },
+    {
+      "category": "Filosofiya",
+      "id": 8,
+      "items": [
+        {
+          "title": "Filosofiya nima?",
+          "id": 1,
+          "img": "https://picsum.photos/seed/281/400/200",
+          "description": "Falsafa, filosofiya – insonning dunyoda tutgan oʻrni va dunyoqarashining yaxlit tizimini ifodalovchi maʼnaviy faoliyatining bir shakli. Milodiy II, III asrlarda oʻtgan yunon faylasufi Diogen Laertskiyning shohidlik berishicha, yunon mutafakkiri Pifagor birinchi boʻlib oʻzini „filosof“ deb atagan. "
+        },
+        {
+          "title": "Filosofiya nima?",
+          "id": 2,
+          "img": "https://picsum.photos/seed/282/400/200",
+          "description": "Falsafa, filosofiya – insonning dunyoda tutgan oʻrni va dunyoqarashining yaxlit tizimini ifodalovchi maʼnaviy faoliyatining bir shakli. Milodiy II, III asrlarda oʻtgan yunon faylasufi Diogen Laertskiyning shohidlik berishicha, yunon mutafakkiri Pifagor birinchi boʻlib oʻzini „filosof“ deb atagan. "
+        },
+        {
+          "title": "Filosofiya nima?",
+          "id": 3,
+          "img": "https://picsum.photos/seed/283/400/200",
+          "description": "Falsafa, filosofiya – insonning dunyoda tutgan oʻrni va dunyoqarashining yaxlit tizimini ifodalovchi maʼnaviy faoliyatining bir shakli. Milodiy II, III asrlarda oʻtgan yunon faylasufi Diogen Laertskiyning shohidlik berishicha, yunon mutafakkiri Pifagor birinchi boʻlib oʻzini „filosof“ deb atagan. "
+        },
+        {
+          "title": "Filosofiya nima?",
+          "id": 4,
+          "img": "https://picsum.photos/seed/284/400/200",
+          "description": "Falsafa, filosofiya – insonning dunyoda tutgan oʻrni va dunyoqarashining yaxlit tizimini ifodalovchi maʼnaviy faoliyatining bir shakli. Milodiy II, III asrlarda oʻtgan yunon faylasufi Diogen Laertskiyning shohidlik berishicha, yunon mutafakkiri Pifagor birinchi boʻlib oʻzini „filosof“ deb atagan. "
+        },
+        {
+          "title": "Filosofiya nima?",
+          "id": 5,
+          "img": "https://picsum.photos/seed/285/400/200",
+          "description": "Falsafa, filosofiya – insonning dunyoda tutgan oʻrni va dunyoqarashining yaxlit tizimini ifodalovchi maʼnaviy faoliyatining bir shakli. Milodiy II, III asrlarda oʻtgan yunon faylasufi Diogen Laertskiyning shohidlik berishicha, yunon mutafakkiri Pifagor birinchi boʻlib oʻzini „filosof“ deb atagan. "
+        },
+        {
+          "title": "Filosofiya nima?",
+          "id": 6,
+          "img": "https://picsum.photos/seed/285/400/200",
+          "description": "Falsafa, filosofiya – insonning dunyoda tutgan oʻrni va dunyoqarashining yaxlit tizimini ifodalovchi maʼnaviy faoliyatining bir shakli. Milodiy II, III asrlarda oʻtgan yunon faylasufi Diogen Laertskiyning shohidlik berishicha, yunon mutafakkiri Pifagor birinchi boʻlib oʻzini „filosof“ deb atagan. "
+        }
+      ]
+    },
+    {
+      "category": "Biznes & Iqtisod",
+      "id": 9,
+      "items": [
+        {
+          "title": "Biznes & Iqtisod nima?",
+          "id": 1,
+          "img": "https://picsum.photos/seed/286/400/200",
+          "description": "Biznes — bu daromad (foyda) olish maqsadida mahsulot yoki xizmat ishlab chiqarish, sotish yoki taqdim etish faoliyatidir."
+        },
+        {
+          "title": "Biznes & Iqtisod nima?",
+          "id": 2,
+          "img": "https://picsum.photos/seed/287/400/200",
+          "description": "Biznes — bu daromad (foyda) olish maqsadida mahsulot yoki xizmat ishlab chiqarish, sotish yoki taqdim etish faoliyatidir."
+        },
+        {
+          "title": "Biznes & Iqtisod nima?",
+          "id": 3,
+          "img": "https://picsum.photos/seed/288/400/200",
+          "description": "Biznes — bu daromad (foyda) olish maqsadida mahsulot yoki xizmat ishlab chiqarish, sotish yoki taqdim etish faoliyatidir."
+        },
+        {
+          "title": "Biznes & Iqtisod nima?",
+          "id": 4,
+          "img": "https://picsum.photos/seed/289/400/200",
+          "description": "Biznes — bu daromad (foyda) olish maqsadida mahsulot yoki xizmat ishlab chiqarish, sotish yoki taqdim etish faoliyatidir."
+        },
+        {
+          "title": "Biznes & Iqtisod nima?",
+          "id": 5,
+          "img": "https://picsum.photos/seed/290/400/200",
+          "description": "Biznes — bu daromad (foyda) olish maqsadida mahsulot yoki xizmat ishlab chiqarish, sotish yoki taqdim etish faoliyatidir."
+        }
+      ]
+    },
+    {
+      "category": "Geografiya & Geologiya",
+      "id": 10,
+      "items": [
+        {
+          "title": "Geografiya & Geologiya nima?",
+          "id": 1,
+          "img": "https://picsum.photos/seed/291/400/200",
+          "description": "Geografiya — bu Yer yuzasi, uning tabiati, aholisi, iqlimi, suvlar, tuproq va inson faoliyati qanday taqsimlangani va o‘zaro bog‘liqligini o‘rganuvchi fan."
+        },
+        {
+          "title": "Geografiya & Geologiya nima?",
+          "id": 2,
+          "img": "https://picsum.photos/seed/292/400/200",
+          "description": "Geografiya — bu Yer yuzasi, uning tabiati, aholisi, iqlimi, suvlar, tuproq va inson faoliyati qanday taqsimlangani va o‘zaro bog‘liqligini o‘rganuvchi fan."
+        },
+        {
+          "title": "Geografiya & Geologiya nima?",
+          "id": 3,
+          "img": "https://picsum.photos/seed/293/400/200",
+          "description": "Geografiya — bu Yer yuzasi, uning tabiati, aholisi, iqlimi, suvlar, tuproq va inson faoliyati qanday taqsimlangani va o‘zaro bog‘liqligini o‘rganuvchi fan."
+        },
+        {
+          "title": "Geografiya & Geologiya nima?",
+          "id": 4,
+          "img": "https://picsum.photos/seed/294/400/200",
+          "description": "Geografiya — bu Yer yuzasi, uning tabiati, aholisi, iqlimi, suvlar, tuproq va inson faoliyati qanday taqsimlangani va o‘zaro bog‘liqligini o‘rganuvchi fan."
+        },
+        {
+          "title": "Geografiya & Geologiya nima?",
+          "id": 5,
+          "img": "https://picsum.photos/seed/295/400/200",
+          "description": "Geografiya — bu Yer yuzasi, uning tabiati, aholisi, iqlimi, suvlar, tuproq va inson faoliyati qanday taqsimlangani va o‘zaro bog‘liqligini o‘rganuvchi fan."
+        }
+      ]
+    },
+    {
+      "category": "Biologiya & Tibbiyot",
+      "id": 11,
+      "items": [
+        {
+          "title": "Biologiya & Tibbiyot nima?",
+          "id": 1,
+          "description": "Biologiya — bu tirik organizmlar, ya’ni odamlar, hayvonlar, o‘simliklar, mikroblar va ularning tuzilishi, hayoti, o‘sishi va rivojlanishini o‘rganuvchi ilmiy fan."
+        },
+        {
+          "title": "Biologiya & Tibbiyot nima?",
+          "id": 2,
+          "description": "Biologiya — bu tirik organizmlar, ya’ni odamlar, hayvonlar, o‘simliklar, mikroblar va ularning tuzilishi, hayoti, o‘sishi va rivojlanishini o‘rganuvchi ilmiy fan."
+        },
+        {
+          "title": "Biologiya & Tibbiyot nima?",
+          "id": 3,
+          "description": "Biologiya — bu tirik organizmlar, ya’ni odamlar, hayvonlar, o‘simliklar, mikroblar va ularning tuzilishi, hayoti, o‘sishi va rivojlanishini o‘rganuvchi ilmiy fan."
+        },
+        {
+          "title": "Biologiya & Tibbiyot nima?",
+          "id": 4,
+          "description": "Biologiya — bu tirik organizmlar, ya’ni odamlar, hayvonlar, o‘simliklar, mikroblar va ularning tuzilishi, hayoti, o‘sishi va rivojlanishini o‘rganuvchi ilmiy fan."
+        },
+        {
+          "title": "Biologiya & Tibbiyot nima?",
+          "id": 5,
+          "description": "Biologiya — bu tirik organizmlar, ya’ni odamlar, hayvonlar, o‘simliklar, mikroblar va ularning tuzilishi, hayoti, o‘sishi va rivojlanishini o‘rganuvchi ilmiy fan."
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import Navbar from '@/components/Navbar.vue';
+import Navbar from '@/components/NavbarComponent.vue';
 import Footer from '@/components/Footer.vue';
 </script>
 
@@ -11,7 +11,7 @@ import Footer from '@/components/Footer.vue';
      <main class="flex-grow px-12">
        <section class="">
          <RouterView />
-         
+
        </section>
      </main>
      <Footer />
