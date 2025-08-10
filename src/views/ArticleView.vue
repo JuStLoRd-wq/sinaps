@@ -1,9 +1,8 @@
 <template>
-  <h1>{{}}</h1>
-  <div class="flex flex-col justify-center items-center">
-    <img class="" :src="getImageUrl(selectedArticle?.img)" alt="" />
+  <div class="flex flex-col justify-center items-center ">
+    <img class="rounded-lg m-0 p-0" :src="getImageUrl(selectedArticle?.img)" alt="" />
     <div class="flex flex-col justify-center items-start ml-5">
-      <h2 class="w-48"> {{ selectedArticle?.title }}</h2>
+      <h1 class="text-lg font-bold mt-5"> {{ selectedArticle?.title }}</h1>
       <p class=" text-justify  text-gray-500 mt-5">
         {{ selectedArticle?.description }}
       </p>

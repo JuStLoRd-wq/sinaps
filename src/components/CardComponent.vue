@@ -3,7 +3,7 @@
     class="group relative w-full h-full cursor-pointer rounded-2xl overflow-hidden shadow-lg bg-cover bg-center transition-transform duration-300"
     :style="`background-image: url(${backgroundUrl});`"
   >
-    <!-- Hover gradient -->asdsa
+    <!-- Hover gradient -->
     <div
       class="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-0 group-hover:opacity-80 transition-opacity duration-300"
     ></div>
@@ -11,7 +11,7 @@
     <!-- Text content -->
     <div class="relative z-10 p-6 text-white flex flex-col justify-end h-full">
       <h2 class="text-2xl font-bold">Card Title</h2>
-      <p class="mt-2 text-sm">
+      <p class="pb-5 text-sm">
         This is a beautiful card with a background image and a hover gradient effect.
       </p>
     </div>

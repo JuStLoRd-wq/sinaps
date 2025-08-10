@@ -24,7 +24,7 @@
 
       </div>
     </main>
-    <div class="flex items-center justify-center">
+    <div class="flex items-center justify-center pb-4">
       <a class="mr-12" href="https://t.me/just_lordd" target="_blank">
         <img src="@/assets/img/la_telegram-plane.svg">
       </a>
